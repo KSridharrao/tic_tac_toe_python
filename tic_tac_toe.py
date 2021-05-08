@@ -1,3 +1,4 @@
+#!/usr/bin/python3
 l="abcdefghi"
 board = { "a":"a", "b" :"b","c":"c","d" : "d","e": "e","f":"f","g":"g","h":"h","i":"i"}
 def prin(board):
